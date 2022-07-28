@@ -10,11 +10,11 @@ Make sure you have Kubernetes Cluster Running, here I user 1 Master and 2 Worker
 
 Clone this repo first
 ```
-git clone
+git clone https://github.com/Ventustium/HashiCorp-Vault-2022.git
 ```
 
 ```
-cd vault-2022
+cd HashiCorp-Vault-2022
 ```
 
 Install `helm`
